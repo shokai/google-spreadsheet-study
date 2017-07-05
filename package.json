@@ -9,7 +9,7 @@
   "author": "Sho Hashimoto <hashimoto@shokai.org>",
   "license": "MIT",
   "dependencies": {
-    "google-spreadsheet-as-promised": "^0.2.11"
+    "google-spreadsheet-as-promised": "shokai/node-google-spreadsheet-as-promised#master"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
