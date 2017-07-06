@@ -1,6 +1,6 @@
 import GoogleSpreadsheetAsPromised from 'google-spreadsheet-as-promised'
 
-const CREDS = require('./creds.json')
+const CREDS = require('./credentials.json')
 const SHEET_ID = '1Q9qh3rvFkkmrjeVvKCM4GtRNdd5QHNWkC2g4LlqmE4I';
 
 // シート末尾を探す
