@@ -1,7 +1,7 @@
 import GoogleSpreadsheetAsPromised from 'google-spreadsheet-as-promised'
 
 const CREDS = require('./credentials.json')
-const SHEET_ID = '1Q9qh3rvFkkmrjeVvKCM4GtRNdd5QHNWkC2g4LlqmE4I';
+const SHEET_ID = '1Q9qh3rvFkkmrjeVvKCM4GtRNdd5QHNWkC2g4LlqmE4I'; // id from sheet URL
 
 // シート末尾を探す
 async function getTailRowIndex (worksheet) {
